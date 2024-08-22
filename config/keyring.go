@@ -29,7 +29,7 @@ import (
 )
 
 var (
-	keyringService = "com.pydio.CellsSync"
+	keyringService = "com.iewnfod.cells.sync"
 	tokenSeparator = "__//__"
 )
 

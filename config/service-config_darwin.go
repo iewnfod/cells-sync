@@ -22,7 +22,7 @@ package config
 import "github.com/kardianos/service"
 
 var ServiceConfig = &service.Config{
-	Name:        "com.pydio.CellsSync",
+	Name:        "com.iewnfod.cells.sync",
 	DisplayName: "Cells Sync",
 	Description: "Synchronization tool for Pydio Cells",
 	Arguments:   []string{"bgstart"},

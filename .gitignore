@@ -9,3 +9,4 @@ package-lock.json
 /.idea/
 *.syso
 .DS_Store
+CellsSync.app
